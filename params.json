@@ -1,6 +1,0 @@
-{
-  "name": "Cube2-mansion-remake",
-  "tagline": "Remake of popular classic Counter Strike map cs_mansion for Cube 2: Sauerbraten",
-  "body": "# cube2-mansion-remake\r\nRemake of popular classic Counter Strike map cs_mansion for Cube 2: Sauerbraten.\r\n\r\nKey features:\r\n- Map size close to original map\r\n- Medieval map design\r\n- Secret map areas with references to other games (in development)\r\n- Ready to play local bot matches and network matches\r\n\r\nMap installation:\r\n- Download .ogz and .wpt files\r\n- Put files into \"<$HOME>\\packages\\base\" directory ($HOME is directory where game saves it's contents)\r\n\r\nRunning map in-game:\r\n- spdm cube2_mansion (for singleplayer survival mode)\r\n- map cube2_mansion (for bot match or LAN mode)\r\n",
-  "note": "Don't delete this file! It's used internally to help with page regeneration."
-}
